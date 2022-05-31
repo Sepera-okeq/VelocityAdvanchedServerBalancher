@@ -6,7 +6,7 @@ Example config:
 {
   "lobby": ["lobby_1", "lobby_2", "lobby_3"],
   "auth": ["auth_1", "auth_2"],
-  "main": ["cluster_1", "cluster_2", "cluster_3", "cluster_4" ]
+  "cluster": ["cluster_1", "cluster_2", "cluster_3", "cluster_4" ]
 }
 ```
 
